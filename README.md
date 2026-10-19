@@ -1,23 +1,30 @@
-# Salut, moi c'est Yoan Robitaille
+# Yoan Robitaille
 
-Finissant en Techniques d'intégration multimédia (Cégep Édouard-Montpetit), développeur média interactif et web. Je cherche un stage en création interactive.
+Finissant en Techniques d'intégration multimédia au Cégep Édouard-Montpetit. Développeur média interactif et web, je transforme une idée en expérience interactive qui marche, du design jusqu'à l'intégration.
 
-Je transforme une idée en expérience interactive qui marche, du design jusqu'à l'intégration.
+🔎 Je cherche un stage en création interactive.
 
-## Projets
+🌐 **Mon Hub :** [yoyorobi.github.io/Yoanrobitaille](https://yoyorobi.github.io/Yoanrobitaille/index.html)
 
-- **[Horloge non conventionnelle](https://github.com/yoyorobi/Horloge-non-conventionnelle)** : un tableau de bord de voiture animé qui lit l'heure, programmé dans TouchDesigner.
-- **[Projection murale interactive](https://github.com/yoyorobi/Projection-murale-int-ractive-avec-une-Kinect)** : silhouettes néon et duel de sabres laser capturés par une Kinect v2, avec un mode autonome génératif.
-- **[PhytoTech – Q-tipousse](https://ebousquet.dectim.ca/webjam/)** : site web de notre équipe, Grand gagnant du WebJam 2026 et prix du meilleur site web.
-- **[Jeu 1D sur bande DEL](https://github.com/yoyorobi/Jeu-1D-sur-bande-DEL)** : un tir à la corde à deux joueurs sur 60 DEL.
-- **Refonte du site Boxotel** : intégration HTML/SCSS/JS réactive d'une maquette Figma, en équipe de deux.
+## 🛠️ Compétences
 
-## Outils
+- 💻 **Développement web** : HTML, CSS / SCSS, JavaScript, WordPress, PHP
+- 🎛️ **Média interactif** : programmation nodale dans TouchDesigner, Kinect, bande DEL
+- 🎨 **Design** : maquettes et prototypes dans Figma
+- 🧊 **3D** : modélisation dans Blender
 
-TouchDesigner · Figma · HTML · CSS / SCSS · JavaScript · WordPress · PHP · Blender · Git
+## 🧰 Mes outils
+![Mes outils : HTML, CSS, JavaScript, Figma, Blender, PHP, WordPress](https://skillicons.dev/icons?i=html,css,js,figma,blender,php,wordpress)
 
-## Me joindre
+## 🚀 Projets à découvrir
 
-- Portfolio : [yoyorobi.github.io/Yoanrobitaille](https://yoyorobi.github.io/Yoanrobitaille/index.html)
-- LinkedIn : [Yoan Robitaille](https://www.linkedin.com/in/yoan-robitaille-41281a43a/)
-- Courriel : yoan.robitaille@hotmail.com
+- ⏱️ [Horloge non conventionnelle](https://github.com/yoyorobi/Horloge-non-conventionnelle) : un tableau de bord de voiture animé qui lit l'heure, programmé dans TouchDesigner.
+- 🕺 [Projection murale interactive](https://github.com/yoyorobi/Projection-murale-int-ractive-avec-une-Kinect) : silhouettes néon et duel de sabres laser captés par une Kinect v2.
+- 🌱 [PhytoTech, Q-tipousse](https://ebousquet.dectim.ca/webjam/) : site du coton-tige infini, Grand gagnant du WebJam 2026 avec l'équipe Erreur fatale.
+- 🐉 [Jeu 1D sur bande DEL](https://github.com/yoyorobi/Jeu-1D-sur-bande-DEL) : un tir à la corde à deux joueurs sur 60 DEL.
+- 🏨 [Refonte du site Boxotel](https://yoyorobi.github.io/Boxotel/) : maquette Figma intégrée en HTML, SCSS et JavaScript réactif, en équipe de deux.
+
+## 📬 Me joindre
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yoan-robitaille-41281a43a/)
+- ✉️ [yoan.robitaille@hotmail.com](mailto:yoan.robitaille@hotmail.com)
