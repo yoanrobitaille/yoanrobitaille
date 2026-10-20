@@ -4,7 +4,7 @@ Finissant en Techniques d'intégration multimédia au Cégep Édouard-Montpetit.
 
 🔎 Je cherche un stage en création interactive.
 
-🌐 **Mon Hub :** [yoyorobi.github.io/Yoanrobitaille](https://yoanrobitaille.github.io/)
+🌐 **Mon Hub :** [https://yoanrobitaille.github.io/](https://yoanrobitaille.github.io/)
 
 ## 🛠️ Compétences
 
