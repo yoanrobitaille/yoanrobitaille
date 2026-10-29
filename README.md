@@ -18,11 +18,11 @@ Finissant en Techniques d'intégration multimédia au Cégep Édouard-Montpetit.
 
 ## 🚀 Projets à découvrir
 
-- ⏱️ [Horloge non conventionnelle](https://github.com/yoyorobi/Horloge-non-conventionnelle) : un tableau de bord de voiture animé qui lit l'heure, programmé dans TouchDesigner.
-- 🕺 [Projection murale interactive](https://github.com/yoyorobi/Projection-murale-int-ractive-avec-une-Kinect) : silhouettes néon et duel de sabres laser captés par une Kinect v2.
+- ⏱️ [Horloge non conventionnelle](https://github.com/yoanrobitaille/Horloge-non-conventionnelle) : un tableau de bord de voiture animé qui lit l'heure, programmé dans TouchDesigner.
+- 🕺 [Projection murale interactive](https://github.com/yoanrobitaille/Projection-murale-int-ractive-avec-une-Kinect) : silhouettes néon et duel de sabres laser captés par une Kinect v2.
 - 🌱 [PhytoTech, Q-tipousse](https://ebousquet.dectim.ca/webjam/) : site du coton-tige infini, Grand gagnant du WebJam 2026 avec l'équipe Erreur fatale.
-- 🐉 [Jeu 1D sur bande DEL](https://github.com/yoyorobi/Jeu-1D-sur-bande-DEL) : un tir à la corde à deux joueurs sur 60 DEL.
-- 🏨 [Refonte du site Boxotel](https://yoyorobi.github.io/Boxotel/) : maquette Figma intégrée en HTML, SCSS et JavaScript réactif, en équipe de deux.
+- 🐉 [Jeu 1D sur bande DEL](https://github.com/yoanrobitaille/Jeu-1D-sur-bande-DEL) : un tir à la corde à deux joueurs sur 60 DEL.
+- 🏨 [Refonte du site Boxotel](https://yoanrobitaille.github.io/Boxotel/) : maquette Figma intégrée en HTML, SCSS et JavaScript réactif, en équipe de deux.
 
 ## 📬 Me joindre
 
